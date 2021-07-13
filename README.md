@@ -6,7 +6,7 @@ I am a fullstack software engineer in Austin, TX. I love asking questions, solvi
 - 🔭  Working on multiple frontend and backend projects using React and Nodejs
 - 🌱  Learning TypeScript & GraphQL
 - 😄  Pronouns: he/him
-- ⚡ Fun fact: also a saxophone player! 🎷
+- ⚡ Fun fact: I'm also a saxophone player! 🎷
 
 
 ##  🤝🏻 &nbsp;Connect with Me
