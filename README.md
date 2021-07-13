@@ -34,7 +34,7 @@ I am a fullstack software engineer in Austin, TX. I love asking questions, solvi
       <img alt="Express" src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge" />
       <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
       <img alt="PostgreSQL" src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />  
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
       <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
     </td>
   </tr>
@@ -43,8 +43,7 @@ I am a fullstack software engineer in Austin, TX. I love asking questions, solvi
 ## 🎨 &nbsp;Projects
 | | |
 | :-------------: | :-------------: |
-| <a href="https://github.com/hratx-blue-ocean/diverr">diverr</a>![](https://media.giphy.com/media/gkihsToPQCgBc6El4X/giphy.gif) | <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a>![](https://github.com/ht-atx55-team-timbre/project-catwalk/blob/master/client/data/gifs/reviews.gif) | <a href="">Houston System Design</a>![]()
-| <a href="https://github.com/jeff-try-code/resume-helper">Resumeee</a>![](https://github.com/jeff-try-code/resume-helper/blob/main/gif/about.gif) | |
+| <a href="https://github.com/hratx-blue-ocean/diverr">diverr</a>![](https://github.com/hratx-blue-ocean/diverr/blob/master/gifs/about.gif) | <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a>![](public/overview.gif) | <a href="https://github.com/itsme-sunil/qa-service">Houston System Design</a>![](public/houston-system-design-test.png) | |
 
 ## 📊 &nbsp;Stats
 
