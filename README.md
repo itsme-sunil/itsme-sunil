@@ -1,4 +1,4 @@
-![BannerGIF]()
+![Banner](public/Banner.png)
 
 # <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Sunil
 
@@ -11,9 +11,9 @@ I am a fullstack software engineer in Austin, TX. I love asking questions, solvi
 
 ##  🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/sunil-gadgil/"><img src="https://img.shields.io/badge/-Sunil%20Gadgil-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sunil-gadgil/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sunil%20Gadgil-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <br>
-<a href="mailto:sunilrgadgil@gmail.com"><img src="https://img.shields.io/badge/-sunilrgadgil@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:sunilrgadgil@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sunilrgadgil@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 ## 🚀 &nbsp;Skills
@@ -48,20 +48,20 @@ I am a fullstack software engineer in Austin, TX. I love asking questions, solvi
     <td>
       <a href="https://github.com/hratx-blue-ocean/diverr">diverr</a>
       <br>
-      <img src="https://github.com/hratx-blue-ocean/diverr/blob/master/gifs/about.gif" width="480px" />
+      <img alt="diverr" src="https://github.com/hratx-blue-ocean/diverr/blob/master/gifs/about.gif" width="480px" />
     </td
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a>
       <br>
-      <img src="https://github.com/itsme-sunil/project-catwalk/blob/master/client/data/gifs/overview.gif" width="480px" />
+      <img alt="Jeff's Secret" src="https://github.com/itsme-sunil/project-catwalk/blob/master/client/data/gifs/overview.gif" width="480px" />
     </td>
   <tr>
     <td>
       <a href="https://github.com/itsme-sunil/qa-service">Houston System Design</a>
       <br>
-      <img src="https://github.com/itsme-sunil/qa-service/blob/master/api/data/readMeFiles/loader-stress-test.png" width="480px" />
+      <img alt="Houston System Design" src="https://github.com/itsme-sunil/qa-service/blob/master/api/data/readMeFiles/loader-stress-test.png" width="480px" />
     </td>
   </tr>
 </table>
