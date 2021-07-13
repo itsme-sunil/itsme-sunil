@@ -41,9 +41,31 @@ I am a fullstack software engineer in Austin, TX. I love asking questions, solvi
 </table>
 
 ## 🎨 &nbsp;Projects
-| | |
-| :-------------: | :-------------: |
-| <a href="https://github.com/hratx-blue-ocean/diverr">diverr</a>![](https://github.com/hratx-blue-ocean/diverr/blob/master/gifs/about.gif) | <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a>![](public/overview.gif) | <a href="https://github.com/itsme-sunil/qa-service">Houston System Design</a>![](public/houston-system-design-test.png) | |
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/hratx-blue-ocean/diverr">diverr</a>
+      <br>
+      <img src="https://github.com/hratx-blue-ocean/diverr/blob/master/gifs/about.gif" width="480px" />
+    </td
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a>
+      <br>
+      <img src="https://github.com/itsme-sunil/project-catwalk/blob/master/client/data/gifs/overview.gif" width="480px" />
+    </td>
+  <tr>
+    <td>
+      <a href="https://github.com/itsme-sunil/qa-service">Houston System Design</a>
+      <br>
+      <img src="https://github.com/itsme-sunil/qa-service/blob/master/api/data/readMeFiles/loader-stress-test.png" width="480px" />
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 &nbsp;Stats
 
