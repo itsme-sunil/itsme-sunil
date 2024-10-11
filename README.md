@@ -1,12 +1,11 @@
-## Sunil Gadgil
-### Fullstack Software Engineer
-#### Languages/Frameworks
+# Sunil Gadgil, Fullstack Software Engineer
+### Languages/Frameworks
 Ruby, Rails, JavaScript/TypeScript, React, Dart, Flutter, HTML, CSS
-#### DB/Tools/Server Technologies
+### DB/Tools/Server Technologies
 SQL, Node.js, NPM, REST API, GraphQL, Git, Bash, Linux, Docker, CircleCI
-#### Cloud
+### Cloud
 AWS (RDS, Aurora, API Gateway, SNS, SQS, Lambda), Terraform
-#### Testing/Deployment/Monitoring
+### Testing/Deployment/Monitoring
 TDD, Rspec, Jest, Postman, Datadog, Cloudwatch
 
 
